@@ -1,2 +1,2 @@
 # Záře-Reaktoru
-Kompletně česká vyprávěcí hra na hrdiny (TTRPG) zasazená v ponurém post-apokalyptickém fantasy-punk světě.
+Záře reaktoru, je kompletně česká vyprávěcí hra na hrdiny (TTRPG), která je založená na systému Resistance (Spire&Heart). Tato hra je zasazena v ponurém post-apokalyptickém fantasy-punk světě, kde se skupina lidských dobrodruhů a společenských vyvrhelů vydává do takzvané “Zóny” - místa, jež bylo zasaženo zářením experimentálního reaktoru, který před několika sta lety při jeho spuštění explodoval.
